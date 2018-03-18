@@ -16,5 +16,5 @@ then rerun `npm run build`. Note that `dist/theme1.css` is NOT
 generated. However the content of `index.css` is now in `dist\main/js`
 
 # Problem
-ETP works properly when passed rules defined as objects (extractLoader1)
+ETWP works properly when passed rules defined as objects (extractLoader1)
 but not when stringified `using webpack-combine-loaders`
